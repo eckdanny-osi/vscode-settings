@@ -1,4 +1,11 @@
 {
+  "search.exclude": {
+    "**/node_modules": true,
+    "**/bower_components": true,
+    "/public": true,
+    "/tmp": true,
+    "**/*.lock": true
+  },
   "editor.formatOnSave": true,
   "javascript.validate.enable": false
 }
