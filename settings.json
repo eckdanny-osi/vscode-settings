@@ -4,7 +4,8 @@
     "**/bower_components": true,
     "/public": true,
     "/tmp": true,
-    "**/*.lock": true
+    "**/*.lock": true,
+    "/.vscode": true
   },
   "editor.formatOnSave": true,
   "javascript.validate.enable": false
